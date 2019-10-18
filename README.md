@@ -1,3 +1,3 @@
-# woniu468cloud-application.yml
-woniu468cloud   application.yml
-woniu468cloud   application-client.yml
+# Springcloud-application.yml 
+application.yml
+application-client.yml
